@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+    background-color: lightslategrey;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.name{
+    width :400px;
+    border-radius: 100px;
+    background-color: lightpink;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+.button{
+    margin-left: 150px;
+    margin-top: 20px;
+    border: 0;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: palevioletred;
+    width: 80px;
+    border-radius: 20px;
+}
